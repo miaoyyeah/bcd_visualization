@@ -1,0 +1,114 @@
+/* App.css */
+
+.navbar {
+  width: 250px;
+  height: 100vh;
+  background-color: #708ca7;
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 20px;
+  transition: transform 0.3s ease;
+  z-index: 1000;
+  overflow-y: auto;
+}
+
+.navbar.collapsed {
+  transform: translateX(-220px);
+  padding-left: 0px;
+}
+
+.toggle-button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  position: absolute;
+  top: 10px;
+  left: 230px;
+  z-index: 1100;
+}
+
+.main-content {
+  padding: 20px;
+  transition: padding-left 0.3s ease;
+}
+
+.expanded {
+  padding-left: 300px;
+}
+
+.collapsed {
+  padding-left: 70px;
+}
+
+h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.navbar h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.navbar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.navbar li {
+  margin-bottom: 10px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.navbar a:hover {
+  color: #2b445b;
+}
+
+.section h2 {
+  font-size: 32px;
+  margin-bottom: 16px;
+  color: #333;
+}
+
+.section h3 {
+  font-size: 24px;
+  margin-top: 24px;
+  margin-bottom: 10px;
+  color: #555;
+}
+
+.section p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 16px;
+  color: #555;
+}
+
+.section ul {
+  padding-left: 20px;
+  margin-bottom: 16px;
+}
+
+.section ul li {
+  margin-bottom: 8px;
+  color: #555;
+}
+
+.text-note {
+  font-style: italic;
+  color: #888;
+}
+
+img {
+  width: 95%;
+}

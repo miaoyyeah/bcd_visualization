@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/bcd-visualization/static/css/main.54df07b5.css",
-    "main.js": "/bcd-visualization/static/js/main.52709785.js",
-    "static/js/453.0cc5a63f.chunk.js": "/bcd-visualization/static/js/453.0cc5a63f.chunk.js",
-    "static/media/humidity.png": "/bcd-visualization/static/media/humidity.687cb8ab7799b0141a66.png",
-    "static/media/thermal-water-system.jpg": "/bcd-visualization/static/media/thermal-water-system.80b16095baf89fa6fdeb.jpg",
-    "static/media/ventilation-thermal-air-system.jpg": "/bcd-visualization/static/media/ventilation-thermal-air-system.7ee41d48e891f65f7628.jpg",
-    "static/media/supply-return-water-temp.png": "/bcd-visualization/static/media/supply-return-water-temp.b54cccca91d1368ea6d7.png",
-    "static/media/temperature.jpg": "/bcd-visualization/static/media/temperature.5a58e78ba756c0329a00.jpg",
-    "static/media/electricity.png": "/bcd-visualization/static/media/electricity.a96c96af4a76fd409e66.png",
-    "static/media/co2.jpg": "/bcd-visualization/static/media/co2.94c96094026adde6127f.jpg",
-    "static/media/lighting-installation.jpg": "/bcd-visualization/static/media/lighting-installation.572504b433c70736ba71.jpg",
-    "static/media/lighting-circulation.jpg": "/bcd-visualization/static/media/lighting-circulation.91d37366127584b55e35.jpg",
-    "index.html": "/bcd-visualization/index.html",
-    "main.54df07b5.css.map": "/bcd-visualization/static/css/main.54df07b5.css.map",
-    "main.52709785.js.map": "/bcd-visualization/static/js/main.52709785.js.map",
-    "453.0cc5a63f.chunk.js.map": "/bcd-visualization/static/js/453.0cc5a63f.chunk.js.map"
+    "main.css": "/bcd_visualization/static/css/main.54df07b5.css",
+    "main.js": "/bcd_visualization/static/js/main.b1609957.js",
+    "static/js/453.0cc5a63f.chunk.js": "/bcd_visualization/static/js/453.0cc5a63f.chunk.js",
+    "static/media/humidity.png": "/bcd_visualization/static/media/humidity.687cb8ab7799b0141a66.png",
+    "static/media/thermal-water-system.jpg": "/bcd_visualization/static/media/thermal-water-system.80b16095baf89fa6fdeb.jpg",
+    "static/media/ventilation-thermal-air-system.jpg": "/bcd_visualization/static/media/ventilation-thermal-air-system.7ee41d48e891f65f7628.jpg",
+    "static/media/supply-return-water-temp.png": "/bcd_visualization/static/media/supply-return-water-temp.b54cccca91d1368ea6d7.png",
+    "static/media/temperature.jpg": "/bcd_visualization/static/media/temperature.5a58e78ba756c0329a00.jpg",
+    "static/media/electricity.png": "/bcd_visualization/static/media/electricity.a96c96af4a76fd409e66.png",
+    "static/media/co2.jpg": "/bcd_visualization/static/media/co2.94c96094026adde6127f.jpg",
+    "static/media/lighting-installation.jpg": "/bcd_visualization/static/media/lighting-installation.572504b433c70736ba71.jpg",
+    "static/media/lighting-circulation.jpg": "/bcd_visualization/static/media/lighting-circulation.91d37366127584b55e35.jpg",
+    "index.html": "/bcd_visualization/index.html",
+    "main.54df07b5.css.map": "/bcd_visualization/static/css/main.54df07b5.css.map",
+    "main.b1609957.js.map": "/bcd_visualization/static/js/main.b1609957.js.map",
+    "453.0cc5a63f.chunk.js.map": "/bcd_visualization/static/js/453.0cc5a63f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54df07b5.css",
-    "static/js/main.52709785.js"
+    "static/js/main.b1609957.js"
   ]
 }

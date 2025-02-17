@@ -3,7 +3,7 @@
 A web-based platform for **visualizing building systems** in **The Intelligent Workplace at Carnegie Mellon University**.  
 This project provides insights into **HVAC, lighting, and system performance** using interactive data visualization.
 
-**Live Demo**: [View on GitHub Pages](https://miaoyyeah.github.io/bcd_visualization/)
+**Live Demo**: [Link](https://miaoyyeah.github.io/bcd_visualization/)
 
 
 ## Tech Stack

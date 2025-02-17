@@ -8,12 +8,12 @@ const Performance = ({isCollapsed}) => (
       <h2>Sensors and Monitoring</h2>
       <div className="image-container">
       <img src={temperature} alt="Indoor vs Outdoor Temperature 2018" />
-      <p className="image-caption">Figure 3. Indoor vs Outdoor Temperature 2018 - Intelligent Workplace (CMU).</p>
+      <p className="image-caption">Figure 9. Indoor vs Outdoor Temperature 2018 - Intelligent Workplace (CMU).</p>
     </div>
 
     <div className="image-container">
       <img src={co2} alt="CO₂ Readings 2018" />
-      <p className="image-caption">Figure 4. CO₂ Readings 2018 - Intelligent Workplace (CMU).</p>
+      <p className="image-caption">Figure 10. CO₂ Readings 2018 - Intelligent Workplace (CMU).</p>
     </div>
     </div>
     </section>

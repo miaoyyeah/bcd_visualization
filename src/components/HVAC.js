@@ -38,29 +38,29 @@ const HVAC = ({ isCollapsed }) => (
     <h3>Thermal Water Systems</h3>
     <div className="image-container">
       <img src={waterSystem} alt="Thermal Water System Diagram" />
-      <p className="image-caption">Figure 1. Thermal Water System Diagram showing key components.</p>
+      <p className="image-caption">Figure 2. Thermal Water System Diagram showing key components.</p>
     </div>
 
     <h3>Ventilation / Thermal Air Systems</h3>
     <div className="image-container">
       <img src={ventilation} alt="Venetilation / Thermal Air System Diagram" />
-      <p className="image-caption">Figure 2. Ventilation / Thermal Air System Diagram showing key components.</p>
+      <p className="image-caption">Figure 3. Ventilation / Thermal Air System Diagram showing key components.</p>
     </div>
 
     <h3>Performance Data</h3>
     <div className="image-container">
       <img src={temperature} alt="Supply and Return Water Temperature 2018" />
-      <p className="image-caption">Figure 2. Supply and Return Water Temperature 2018 - Intelligent Workplace (CMU).</p>
+      <p className="image-caption">Figure 4. Supply and Return Water Temperature 2018 - Intelligent Workplace (CMU).</p>
     </div>
 
     <div className="image-container">
       <img src={humidity} alt="Indoor vs Outdoor Relative Humidity 2018" />
-      <p className="image-caption">Figure 3. Indoor vs Outdoor Relative Humidity 2018 - Intelligent Workplace (CMU).</p>
+      <p className="image-caption">Figure 5. Indoor vs Outdoor Relative Humidity 2018 - Intelligent Workplace (CMU).</p>
     </div>
 
     <div className="image-container">
       <img src={electricity} alt="Electricity Consumption 2018" />
-      <p className="image-caption">Figure 4. Electricity Consumption 2018 - Intelligent Workplace (CMU).</p>
+      <p className="image-caption">Figure 6. Electricity Consumption 2018 - Intelligent Workplace (CMU).</p>
     </div>
 
   </section>

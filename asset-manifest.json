@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/bcd_visualization/static/css/main.54df07b5.css",
-    "main.js": "/bcd_visualization/static/js/main.b1609957.js",
+    "main.css": "/bcd_visualization/static/css/main.f07a0cb2.css",
+    "main.js": "/bcd_visualization/static/js/main.2edc4ca1.js",
     "static/js/453.0cc5a63f.chunk.js": "/bcd_visualization/static/js/453.0cc5a63f.chunk.js",
+    "static/media/building.jpg": "/bcd_visualization/static/media/building.c9c8467c3debb82dbe14.jpg",
     "static/media/humidity.png": "/bcd_visualization/static/media/humidity.687cb8ab7799b0141a66.png",
     "static/media/thermal-water-system.jpg": "/bcd_visualization/static/media/thermal-water-system.80b16095baf89fa6fdeb.jpg",
     "static/media/ventilation-thermal-air-system.jpg": "/bcd_visualization/static/media/ventilation-thermal-air-system.7ee41d48e891f65f7628.jpg",
@@ -12,13 +13,14 @@
     "static/media/co2.jpg": "/bcd_visualization/static/media/co2.94c96094026adde6127f.jpg",
     "static/media/lighting-installation.jpg": "/bcd_visualization/static/media/lighting-installation.572504b433c70736ba71.jpg",
     "static/media/lighting-circulation.jpg": "/bcd_visualization/static/media/lighting-circulation.91d37366127584b55e35.jpg",
+    "static/media/soaIcon.svg": "/bcd_visualization/static/media/soaIcon.cd0a9a92bdc20188066e5c0dd6856f8b.svg",
     "index.html": "/bcd_visualization/index.html",
-    "main.54df07b5.css.map": "/bcd_visualization/static/css/main.54df07b5.css.map",
-    "main.b1609957.js.map": "/bcd_visualization/static/js/main.b1609957.js.map",
+    "main.f07a0cb2.css.map": "/bcd_visualization/static/css/main.f07a0cb2.css.map",
+    "main.2edc4ca1.js.map": "/bcd_visualization/static/js/main.2edc4ca1.js.map",
     "453.0cc5a63f.chunk.js.map": "/bcd_visualization/static/js/453.0cc5a63f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54df07b5.css",
-    "static/js/main.b1609957.js"
+    "static/css/main.f07a0cb2.css",
+    "static/js/main.2edc4ca1.js"
   ]
 }

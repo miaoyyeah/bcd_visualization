@@ -27,7 +27,6 @@ Builds the app for **production** in the `build/` folder.
 ### `npm run deploy`
 Deploys the app to **GitHub Pages**.
 
----
 
 ## Deployment Guide
 Make sure **homepage** is set in `package.json`

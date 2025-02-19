@@ -19,7 +19,7 @@ const Lighting = ({ isCollapsed }) => (
 
     <div className="image-container">
       <img src={lightingInstallation} alt="Lighting Floor Plan" />
-      <p className="image-caption">Figure 7. Floor Plan of the Lighting Installation - Intelligent Workplace (CMU).</p>
+      <p className="image-caption">Figure 8. Floor Plan of the Lighting Installation - Intelligent Workplace (CMU).</p>
     </div>
 
     <h3>Lighting Control Strategies for Circulation Areas</h3>
@@ -47,7 +47,7 @@ const Lighting = ({ isCollapsed }) => (
 
     <div className="image-container">
       <img src={lightingCirculation} alt="Lighting Floor Plan" />
-      <p className="image-caption">Figure 8. Floor Plan of the Lighting Circulation - Intelligent Workplace (CMU).</p>
+      <p className="image-caption">Figure 9. Floor Plan of the Lighting Circulation - Intelligent Workplace (CMU).</p>
     </div>
 
   </section>

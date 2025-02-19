@@ -4,6 +4,7 @@ import waterSystem from '../assets/images/hvac/thermal-water-system.jpg';
 import ventilation from '../assets/images/hvac/ventilation-thermal-air-system.jpg';
 import humidity from '../assets/images/hvac/02_relative_humidity.png';
 import electricity from '../assets/images/hvac/01_electricity_consumption.png';
+import hdd from '../assets/images/hvac/06_heatingDemand.png';
 
 const HVAC = ({ isCollapsed }) => (
   <section id="hvac" className={`section ${isCollapsed ? 'collapsed' : 'expanded'}`}>
@@ -61,6 +62,12 @@ const HVAC = ({ isCollapsed }) => (
     <div className="image-container">
       <img src={electricity} alt="Electricity Consumption 2018" />
       <p className="image-caption">Figure 6. Electricity Consumption 2018 - Intelligent Workplace (CMU).</p>
+    </div>
+
+    <h3>Weather Data</h3>
+    <div className="image-container">
+      <img src={hdd} alt="Heating Demand 2018" />
+      <p className="image-caption">Figure 7. Heating and Cooling Degree Days 2018 - Intelligent Workplace (CMU).</p>
     </div>
 
   </section>

@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/bcd_visualization/static/css/main.f07a0cb2.css",
-    "main.js": "/bcd_visualization/static/js/main.2edc4ca1.js",
+    "main.js": "/bcd_visualization/static/js/main.fc72f87e.js",
     "static/js/453.0cc5a63f.chunk.js": "/bcd_visualization/static/js/453.0cc5a63f.chunk.js",
     "static/media/building.jpg": "/bcd_visualization/static/media/building.c9c8467c3debb82dbe14.jpg",
-    "static/media/humidity.png": "/bcd_visualization/static/media/humidity.687cb8ab7799b0141a66.png",
+    "static/media/02_relative_humidity.png": "/bcd_visualization/static/media/02_relative_humidity.7e0b15d628706d7b6387.png",
+    "static/media/01_electricity_consumption.png": "/bcd_visualization/static/media/01_electricity_consumption.3be2db314f3f8759a429.png",
+    "static/media/03_water temp.png": "/bcd_visualization/static/media/03_water temp.34b6f053a44df82091ad.png",
+    "static/media/04_temperature.png": "/bcd_visualization/static/media/04_temperature.b49544b92cdca92f9251.png",
+    "static/media/05_co2.png": "/bcd_visualization/static/media/05_co2.51a5a56bba48ff63953d.png",
+    "static/media/06_heatingDemand.png": "/bcd_visualization/static/media/06_heatingDemand.db2db9f8b80c835227e3.png",
     "static/media/thermal-water-system.jpg": "/bcd_visualization/static/media/thermal-water-system.80b16095baf89fa6fdeb.jpg",
     "static/media/ventilation-thermal-air-system.jpg": "/bcd_visualization/static/media/ventilation-thermal-air-system.7ee41d48e891f65f7628.jpg",
-    "static/media/supply-return-water-temp.png": "/bcd_visualization/static/media/supply-return-water-temp.b54cccca91d1368ea6d7.png",
-    "static/media/temperature.jpg": "/bcd_visualization/static/media/temperature.5a58e78ba756c0329a00.jpg",
-    "static/media/electricity.png": "/bcd_visualization/static/media/electricity.a96c96af4a76fd409e66.png",
-    "static/media/co2.jpg": "/bcd_visualization/static/media/co2.94c96094026adde6127f.jpg",
     "static/media/lighting-installation.jpg": "/bcd_visualization/static/media/lighting-installation.572504b433c70736ba71.jpg",
     "static/media/lighting-circulation.jpg": "/bcd_visualization/static/media/lighting-circulation.91d37366127584b55e35.jpg",
     "static/media/soaIcon.svg": "/bcd_visualization/static/media/soaIcon.cd0a9a92bdc20188066e5c0dd6856f8b.svg",
     "index.html": "/bcd_visualization/index.html",
     "main.f07a0cb2.css.map": "/bcd_visualization/static/css/main.f07a0cb2.css.map",
-    "main.2edc4ca1.js.map": "/bcd_visualization/static/js/main.2edc4ca1.js.map",
+    "main.fc72f87e.js.map": "/bcd_visualization/static/js/main.fc72f87e.js.map",
     "453.0cc5a63f.chunk.js.map": "/bcd_visualization/static/js/453.0cc5a63f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f07a0cb2.css",
-    "static/js/main.2edc4ca1.js"
+    "static/js/main.fc72f87e.js"
   ]
 }

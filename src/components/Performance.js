@@ -1,6 +1,6 @@
 import React from 'react';
-import temperature from '../assets/images/sensors/temperature.jpg';
-import co2 from '../assets/images/sensors/co2.jpg';
+import temperature from '../assets/images/sensors/04_temperature.png';
+import co2 from '../assets/images/sensors/05_co2.png';
 
 const Performance = ({isCollapsed}) => (
     <section id="performance" className={`section ${isCollapsed ? 'collapsed' : 'expanded'}`}>

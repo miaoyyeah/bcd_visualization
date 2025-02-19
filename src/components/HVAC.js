@@ -1,9 +1,9 @@
 import React from 'react';
-import temperature from '../assets/images/hvac/supply-return-water-temp.png';
+import temperature from '../assets/images/hvac/03_water temp.png';
 import waterSystem from '../assets/images/hvac/thermal-water-system.jpg';
 import ventilation from '../assets/images/hvac/ventilation-thermal-air-system.jpg';
-import humidity from '../assets/images/hvac/humidity.png';
-import electricity from '../assets/images/hvac/electricity.png';
+import humidity from '../assets/images/hvac/02_relative_humidity.png';
+import electricity from '../assets/images/hvac/01_electricity_consumption.png';
 
 const HVAC = ({ isCollapsed }) => (
   <section id="hvac" className={`section ${isCollapsed ? 'collapsed' : 'expanded'}`}>

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bcd_visualization/static/css/main.f07a0cb2.css",
-    "main.js": "/bcd_visualization/static/js/main.fc72f87e.js",
+    "main.js": "/bcd_visualization/static/js/main.f10ad083.js",
     "static/js/453.0cc5a63f.chunk.js": "/bcd_visualization/static/js/453.0cc5a63f.chunk.js",
     "static/media/building.jpg": "/bcd_visualization/static/media/building.c9c8467c3debb82dbe14.jpg",
     "static/media/02_relative_humidity.png": "/bcd_visualization/static/media/02_relative_humidity.7e0b15d628706d7b6387.png",
@@ -17,11 +17,11 @@
     "static/media/soaIcon.svg": "/bcd_visualization/static/media/soaIcon.cd0a9a92bdc20188066e5c0dd6856f8b.svg",
     "index.html": "/bcd_visualization/index.html",
     "main.f07a0cb2.css.map": "/bcd_visualization/static/css/main.f07a0cb2.css.map",
-    "main.fc72f87e.js.map": "/bcd_visualization/static/js/main.fc72f87e.js.map",
+    "main.f10ad083.js.map": "/bcd_visualization/static/js/main.f10ad083.js.map",
     "453.0cc5a63f.chunk.js.map": "/bcd_visualization/static/js/453.0cc5a63f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f07a0cb2.css",
-    "static/js/main.fc72f87e.js"
+    "static/js/main.f10ad083.js"
   ]
 }
